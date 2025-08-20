@@ -127,7 +127,7 @@
 				</span>
 				</div>
 				<p style="margin-top:8px; font-size:18px; color:#444; text-shadow:1px 1px 3px rgba(0,0,0,0.3);">
-					Bunching Label Automobile <br> Cable Plane 1
+					Bunching Label Automobile <br> Cable Plane 2
 				</p>
 			</a>
 		</div>
