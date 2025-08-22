@@ -15,11 +15,11 @@
                         </div>
                         <div id="label_length" class="form-group">
                             <label for="length">Length (meter)</label>
-                            <input type="text" name="length" class="form-control" id="length" placeholder="Length">
+                            <input type="number" name="length" class="form-control" id="length" placeholder="Length">
                         </div>
                         <div id="label_weight" class="form-group">
                             <label for="weight">Weight (Kg)</label>
-                            <input type="text" name="weight" class="form-control" id="weight" placeholder="Weight">
+                            <input type="number" name="weight" class="form-control" id="weight" placeholder="Weight">
                         </div>
                         <div id="label_date" class="form-group">
                             <label for="date">Date</label>
@@ -28,7 +28,7 @@
                         </div>
 						<div id="label_lot_not" class="form-group">
                             <label for="lot_not">Lot No</label>
-                            <input type="text" name="lot_not" value="" class="form-control" id="lot_not" placeholder="Lot No (ex: 001)">
+                            <input type="number" name="lot_not" value="" class="form-control" id="lot_not" placeholder="Lot No (ex: 001)">
                         </div>
                         <div id="label_shift" class="form-group">
                             <label for="shift">Shift</label>
@@ -107,7 +107,7 @@
                         
                         <div id="label_bobin_no" class="form-group">
                             <label for="bobin_no">No Bobin</label>
-                            <input type="text" name="bobin_no" value="" class="form-control" id="bobin_no" placeholder="No Bobin">
+                            <input type="number" name="bobin_no" value="" class="form-control" id="bobin_no" placeholder="No Bobin">
                         </div>
                     </div>
                 </div>
