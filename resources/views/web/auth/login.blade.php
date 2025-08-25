@@ -27,7 +27,7 @@
 	.login-box {
 		margin: 6% auto;
 		width: 100%;
-		max-width: 380px; /* lebih slim */
+		max-width: 380px;
 		color: #f8fafc;
 		padding: 20px;
 		border-radius: 12px;
